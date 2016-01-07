@@ -1,0 +1,43 @@
+.header {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	text-align: center;
+	font-size: 6rem;
+}
+
+h2, h1 {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 2rem;
+}
+
+p, li  {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 1rem;
+}
+
+object {
+	display: block;
+	margin: 0 auto;
+	vertical-align: top;
+}
+
+.frontend {
+	padding: 5rem;
+}
+/*
+.skillset {
+	display: none;
+}*/
+
+.floatright {
+	float: right;
+}
+
+.projects {
+	width: 90%;
+	margin: 0 auto;
+}
