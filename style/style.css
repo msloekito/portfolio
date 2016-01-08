@@ -71,3 +71,7 @@ a {
 .aligntop {
 	vertical-align: text-top;
 }
+
+.selfblurb {
+	font-size: .9rem;
+}
